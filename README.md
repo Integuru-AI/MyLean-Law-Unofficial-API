@@ -4,10 +4,10 @@ Unofficial Python integrations for MyLean Law.
 
 ## Integrations
 
-- `mylean_law_add_user_to_matter_billing.py` - `add_user_to_matter_billing` (23 live events).
-- `mylean_law_get_calendar_entries.py` - `get_calendar_entries` (7 live events).
-- `mylean_law_create_expense.py` - `create_expense` (4 live events).
-- `mylean_law_list_client_matters.py` - `list_client_matters` (1 live events).
+- `mylean_law_add_user_to_matter_billing.py` - `add_user_to_matter_billing`.
+- `mylean_law_get_calendar_entries.py` - `get_calendar_entries`.
+- `mylean_law_create_expense.py` - `create_expense`.
+- `mylean_law_list_client_matters.py` - `list_client_matters`.
 
 ## Usage
 
